@@ -1,4 +1,4 @@
-Information retrieval engine as part of "Information Retrieval" course.
+Information retrieval engine
 ------------------------------------
 Creators: Maor Maimon, Yaniv Knobel
 Course: Information Retrival
