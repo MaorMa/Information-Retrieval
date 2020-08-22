@@ -28,8 +28,14 @@ If packages are not loaded automaticlly, right click on "pom.xml" in the project
 
 <b>Screenshots</b>
 ![Screenshots](https://i.ibb.co/jLQLQJ0/1.jpg)
+
+Loading dictionary from posting file
 ![Screenshots](https://i.ibb.co/0ctWML7/2.jpg)
+
+View dictionary
 ![Screenshots](https://i.ibb.co/CPz3G3J/3.jpg)
+
+Search for relevant documents that contains the word 'house'
 ![Screenshots](https://i.ibb.co/6Pd8Ht5/4.jpg)
 
 
