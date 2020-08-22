@@ -9,7 +9,7 @@ This project is using Maven dependencies.
 Please make sure you to enable import of maven packges when opening the project for the first time on a new computer.
 If packages are not loaded automaticlly, right click on "pom.xml" in the project files in the IDE, select "Maven" and then click "reimport".
 
-GUI Instructions:
+<b>GUI Instructions:</b>
 1. Insert the corpus path by using the first "BROWSE" button on the right OR write the path yourself in the first text field
 2. Insert the Posting path you want the posting files\Dictionaries to be created in OR write the path yourself in the second text field
 3. Select "STEM" checkbox for stemming
@@ -25,6 +25,9 @@ GUI Instructions:
 (-) After the indexing process is done, you can press the "SELECT" button for the Language list in the corpus
 (-) After the indexing process is done, you can press the "SHOW" button for the Corpus Dictionary content- it might take up to 30 seconds to load the entire Dictionary to the screen.
 (-) You can load a Dictionary from the disk to the memory
+
+<b>Screenshots</b>
+![Screenshots](https://i.ibb.co/9hXtxpR/1.jpg)
 
 NOTES:
 ------
