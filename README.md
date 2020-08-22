@@ -27,7 +27,11 @@ If packages are not loaded automaticlly, right click on "pom.xml" in the project
 (-) You can load a Dictionary from the disk to the memory
 
 <b>Screenshots</b>
-![Screenshots](https://i.ibb.co/9hXtxpR/1.jpg)
+![Screenshots](https://i.ibb.co/jLQLQJ0/1.jpg)
+![Screenshots](https://i.ibb.co/0ctWML7/2.jpg)
+![Screenshots](https://i.ibb.co/CPz3G3J/3.jpg)
+![Screenshots](https://i.ibb.co/6Pd8Ht5/4.jpg)
+
 
 NOTES:
 ------
